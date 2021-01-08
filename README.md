@@ -1,0 +1,2 @@
+# kaleido-js
+Simple Storage
